@@ -66,13 +66,29 @@ and delivering results that make a difference. Each project helped shape my skil
 ## 📂 Portfolio Highlights
 ![Portfolio Preview](logo.png)
 
+## 📂 About me
+![Portfolio Preview](about.png)
+
+## 📂 Skills
+![Portfolio Preview](skill.png)
+
+## 📂 Resume
+![Portfolio Preview](resume.png)
+
+## 📂 porfolio
+![Portfolio Preview](portfolio.png)
+
+## 📂 Services
+![Portfolio Preview](services.png)
+
+
+
 ---
 
 ## 🌟 Testimonials
+![Portfolio Preview](testonomials1.png)
+![Portfolio Preview](testonomials2.png)
 
-> *Add your client testimonials or recruiter praise here as images or quotes — these strengthen authority.*
-
----
 
 ## 📬 Let’s Connect
 
