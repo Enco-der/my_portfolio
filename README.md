@@ -64,9 +64,7 @@ and delivering results that make a difference. Each project helped shape my skil
 ---
 
 ## 📂 Portfolio Highlights
-
-> (📌 Add clickable screenshots here later)  
-> Example project sections: Hero/banner, About section, Projects grid, Contact form, Skills section
+![Portfolio Preview](logo.png)
 
 ---
 
